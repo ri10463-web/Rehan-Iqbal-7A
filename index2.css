@@ -1,1 +1,55 @@
+/* --- Basic Reset & Setup --- */
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 900px; 
+    margin: 40px auto; 
+    padding: 0 20px;
+    background-color: #247505; 
+}
+
+
+h1 {
+    color: #000;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #444;
+    margin-top: 2em; 
+}
+
+p {
+    margin-bottom: 1em;
+    font-size: 1.05rem;
+}
+
+em {
+    font-weight: bold; 
+    color: #a51d1d;
+    font-style: normal;
+}
+
+
+img {
+    max-width: 100%; 
+    height: auto;
+    display: block; 
+    margin: 20px auto; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+
+img[alt="lebron in highschool"] {
+    width: 250px; 
+}
+
+
+.header-section {
+    text-align: center;
+    margin-bottom: 40px;
+}
 
